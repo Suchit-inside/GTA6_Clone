@@ -5,8 +5,8 @@ import NavBar from './sections/NavBar';
 import Hero from './sections/Hero';
 import FirstVideo from './sections/FirstVideo';
 import Jason from './sections/Jason';
-// import SecondVideo from './sections/SecondVideo';
-// import Lucia from './sections/Lucia';
+import SecondVideo from './sections/SecondVideo';
+import Lucia from './sections/Lucia';
 // import PostCard from './sections/PostCard';
 // import Final from './sections/Final';
 // import Outro from './sections/Outro';
@@ -21,10 +21,10 @@ const App = () => {
         <FirstVideo />
        <Jason />
 
-      {/*<SecondVideo />
+      <SecondVideo />
       <Lucia />
 
-      <PostCard />
+     {/* <PostCard />
       <Final />
       <Outro /> */}
     </main>
