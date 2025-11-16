@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/all';
 import NavBar from './sections/NavBar';
 import Hero from './sections/Hero';
 import FirstVideo from './sections/FirstVideo';
-// import Jason from './sections/Jason';
+import Jason from './sections/Jason';
 // import SecondVideo from './sections/SecondVideo';
 // import Lucia from './sections/Lucia';
 // import PostCard from './sections/PostCard';
@@ -19,9 +19,9 @@ const App = () => {
         <NavBar />
         <Hero />
         <FirstVideo />
-     {/*  <Jason />
+       <Jason />
 
-      <SecondVideo />
+      {/*<SecondVideo />
       <Lucia />
 
       <PostCard />
